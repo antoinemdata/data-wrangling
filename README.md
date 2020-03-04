@@ -1,8 +1,8 @@
-# Udacity Data Wrangling
+# Data Wrangling
 
 ## Introduction
 
-This project was to mix .csv .tsv and json data (I've extracted data from WeRateDog Twitter account to get the favorite and retweet counts.
+This project was to mix .csv .tsv and json data (I've extracted data from WeRateDog Twitter account to get the favorite and retweet counts. I did itas part of the the Udacity Data Analyst Nanodegree projects.
 
 ## Data Wrangling
 
