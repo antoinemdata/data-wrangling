@@ -19,4 +19,9 @@ Lots of changes were made to get Quality and Tidiness data better:
 
 ## Results
 
-With that optimizations, I could understand the most popular dog nicknames and race dogs. I could also know what the best day of the week and month to tweet were.
+With that optimizations, I could understand:
+1) The association between rating proportion and favorite/retweet counts (slight association)
+2) The most well-rated dog races ("Pomeranian" seem to be the best)
+3) The dog nicknames with the best rating, favorite count and retweet count ("Puppo" and "Doggo" were shown as the best)
+4) The days of the week with the best rating, favorite count and retweet count (Wednesday and Saturday seem slightly better).
+5) The months with the best rating, favorite count and retweet count (May, June and July seem to be the best months to show one's dog.
